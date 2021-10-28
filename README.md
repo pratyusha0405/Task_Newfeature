@@ -1,4 +1,4 @@
-# GForces
+# Tech assignment 
 The below information explains the approach taken to create the automation script for 5 user journeys of computerdatabase application
 # Environment setup
 
